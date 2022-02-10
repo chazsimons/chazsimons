@@ -20,8 +20,6 @@ Welcome to my github! My name's Chaz Simons and I'm a back-end developer. I star
 - ⚡ Fun fact: I'm a big comic book fan, especially the :zap:Flash:zap:! What's your favorite comic story?
 - 📫 How to reach me: Message me here, or email me at chaz.simons@gmail.com !
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chazsimons&theme=dark"/> [![Chaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=chazsimons&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Chaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=chazsimons&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=<http://www.w3.org/2000/svg/></svg>&logoColor=white&color=#CC342D)
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chazsimons&theme=dark"/>
