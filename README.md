@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Welcome to my github! My name's Chaz Simons and I'm a back-end developer. I started my coding journey in August of 2021, which you'll see as you work your way through my repos. Here's a bit more about me:
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning GraphQl.
+- 🌱 I’m currently learning C#.
 - ⚡ Fun fact: I'm a big comic book fan, especially the :zap:Flash:zap:! What's your favorite comic story?
 - 📫 How to reach me: Message me here, or email me at chaz.simons@gmail.com !
 
